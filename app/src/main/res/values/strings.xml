@@ -4,4 +4,6 @@
     <string name="txt_btn_homepage">HOMEPAGE</string>
     <string name="txt_btn_map">MAP</string>
     <string name="txt_btn_details">DETAILS</string>
+    <string name="txt_lbl_nameslist" />
+    <string name="txt_lbl_text">Pick a name</string>
 </resources>
