@@ -69,7 +69,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="133dp"
-        android:layout_height="0dp"
+        android:layout_height="wrap_content"
         android:layout_marginBottom="15dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="15dp"
