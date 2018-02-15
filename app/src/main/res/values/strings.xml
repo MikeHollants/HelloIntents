@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hello Intents</string>
+    <string name="txt_btn_call">CALL</string>
+    <string name="txt_btn_homepage">HOMEPAGE</string>
+    <string name="txt_btn_map">MAP</string>
+    <string name="txt_btn_details">DETAILS</string>
 </resources>
